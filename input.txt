@@ -1,0 +1,12 @@
+2
+4
+Mary 100 Ann Alex John
+Alex 75 Mary John
+Ann 80 Mary Alex John
+John 100 Ann Mary Alex
+5
+Roger 200 Aaron Amber Lloyd
+Drew 250 Aaron Roger Amber Lloyd
+Amber 100 Roger Drew Aaron
+Lloyd 150 Amber Drew Roger
+Aaron 0
